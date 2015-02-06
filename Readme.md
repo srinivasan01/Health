@@ -6,4 +6,4 @@ Testing git commands
  I wnant merge 
 secondly i want to merge
 
-update
+update testing jenkins
