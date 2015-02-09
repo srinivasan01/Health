@@ -4,7 +4,4 @@ this is adding new way to create jenkins
 
 Testing git commands
  I wnant merge 
-secondly i want to merge
-
-
-this is fist showing testing
+secondly i want to mer
