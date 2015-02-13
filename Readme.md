@@ -6,7 +6,3 @@ this is testing for jenkins documnet
  
 gdgdagdaggda
 fwbhfjhksflkslkfhsf;l
-sfbksafbglksbfslkajbfl
-shfbgiksbgafkjsakfjasffsa
-sfsAFUJHSLKJFkskAFL
-SFNLSKJNFBHSF;SAsAFSF
