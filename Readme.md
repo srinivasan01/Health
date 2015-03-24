@@ -1,6 +1,2 @@
 
-this is testing for new commit
-this is adding new way to create jenkins
-
-this is testing for jenkins documnet
-dfvsafdsaff
+Creating a webhook is a two-step process. You’ll first need to set up how you want your webhook to behave through GitHub–what events should it listen to. After that, you’ll set up your server to receive and manage the payload.
