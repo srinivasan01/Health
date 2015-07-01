@@ -1,5 +1,5 @@
 
-<a href='http://localhost:8075/job/sampleJenkins'><img src='http://localhost:8075/job/sampleJenkins/badge/icon?style=flat'></a>
+<a href='http://localhost:8075/job/sampleJenkins'><img src='http://localhost:8075/job/sampleJenkins/badge/icon?style=plastic'></a>
 
 <a href='http://localhost:8075/job/sampleJenkins/'><img src='http://localhost:8075/buildStatus/icon?job=sampleJenkins'></a>
 
