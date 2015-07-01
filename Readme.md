@@ -1,5 +1,5 @@
 
-[[image:http://localhost:8075/job/sampleJenkins/badge/icon?style=plastic>>http://localhost:8075/job/sampleJenkins/||target='__new']]
+[![Build Status](http://localhost:8075/buildStatus/icon?job=sampleJenkins)](http://localhost:8075/job/sampleJenkins)
 
 Creating a webafiyhiafiafiivkdxkfkdkfkkjlkjolhook is a two-step process. You’ll first need to set up how you want your webhook to behave through GitHub–what events should it listen to. After that, you’ll set up your server to receive and manage the payload.
 =======
