@@ -6,7 +6,5 @@ Jenkins, formerly known as Hudson, is a quick to use continuous integration syst
 Besides this, Jenkis can also monitor the execution of external jobs, such as cron jobs and procmail jobs, even those that are run on a remote machine. Let's get started by downloading Jenkis Web archive from http://jenkins-ci.org/
 
 The Web archive can be either executed as a Java application by running:
-?
-1
 	
 java -jar jenkins.war
