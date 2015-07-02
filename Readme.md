@@ -1,9 +1,12 @@
 
+
 [![Build Status](http://49.207.180.11:8085/job/sampleJenkins/badge/icon?style=plastic)](http://49.207.180.11:8085/job/sampleJenkins/)
 
-Creating a webafiyhiafiafiivkdxkfkdkfkkjlkjolhook is a two-step process. You’ll first need to set up how you want your webhook to behave through GitHub–what events should it listen to. After that, you’ll set up your server to receive and manage the payload.
-=======
-afllakfhlkalkfkafklffa
-Creating a webhook is a two-step process. You’ll first need to set up how you want your webhook to behave through GitHub–what events should it listen to. After that, you’ll set up your server to receive and manage the payload. this is the 
-gsdgsdgsdgdsg
-cvcvghjkfhjkfhkj
+Jenkins, formerly known as Hudson, is a quick to use continuous integration system, which can be used to automate the built of your projects at a scheduled time or when a trigger is raised (e.g. a CVS commit) or simply when the user requests it. The automated, continuous build can help a lot in increasing the productivity and reducing conflicts.
+Besides this, Jenkis can also monitor the execution of external jobs, such as cron jobs and procmail jobs, even those that are run on a remote machine. Let's get started by downloading Jenkis Web archive from http://jenkins-ci.org/
+
+The Web archive can be either executed as a Java application by running:
+?
+1
+	
+java -jar jenkins.war
