@@ -3,7 +3,7 @@
 
 <a href='http://localhost:8075/job/sampleJenkins/'><img src='http://localhost:8075/buildStatus/icon?job=sampleJenkins'></a>
 
-[![Build Status](http://192.168.1.10:8085/job/sampleJenkins/badge/icon?style=plastic)](http://192.168.1.10:8085/job/sampleJenkins/)
+[![Build Status](http://192.168.1.10:8085/job/sampleJenkins/badge/icon?style=flat)](http://192.168.1.10:8085/job/sampleJenkins/)
 
 <a href='http://192.168.1.10:8085/job/sampleJenkins'><img src='http://192.168.1.10:8085/job/sampleJenkins/badge/icon?style=plastic'></a>
 
