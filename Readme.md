@@ -10,7 +10,7 @@
 
 [![Build Status](https://img.shields.io/badge/style-plastic-green.svg?style=plastic)](http://192.168.1.10:8085/job/sampleJenkins/)
 
-[![Build Status](https://jenkins-status-tool-url/job/sampleJenkins/status.png)](http://192.168.1.10:8085/job/sampleJenkins/)
+[![Build Status](https://img.shields.io/travis/joyent/node/v0.6.svg)](http://192.168.1.10:8085/job/sampleJenkins/)
 
 Creating a webafiyhiafiafiivkdxkfkdkfkkjlkjolhook is a two-step process. You’ll first need to set up how you want your webhook to behave through GitHub–what events should it listen to. After that, you’ll set up your server to receive and manage the payload.
 =======
