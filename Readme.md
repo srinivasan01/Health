@@ -5,7 +5,7 @@
 
 [![Build Status](http://192.168.1.10:8085/job/sampleJenkins/badge/icon?style=flat)](http://192.168.1.10:8085/job/sampleJenkins/)
 
-<a href='http://192.168.1.10:8085/job/sampleJenkins'><img id="badgeUrlWithView" src="http://192.168.1.10:8085/job/sampleJenkins/badge/icon"></a>
+<a href='http://192.168.1.10:8085/job/sampleJenkins'><img id="badgeUrlWithView" src="http://192.168.1.10:8085/job/sampleJenkins/badge/icon?style=flat"></a>
 
 Creating a webafiyhiafiafiivkdxkfkdkfkkjlkjolhook is a two-step process. You’ll first need to set up how you want your webhook to behave through GitHub–what events should it listen to. After that, you’ll set up your server to receive and manage the payload.
 =======
