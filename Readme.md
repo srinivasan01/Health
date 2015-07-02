@@ -8,7 +8,7 @@
 <a href='http://192.168.1.10:8085/job/sampleJenkins'><img id="badgeUrlWithView" src="http://192.168.1.10:8085/job/sampleJenkins/badge/icon?style=flat"></a>
 
 
-[![Build Status](https://img.shields.io/badge/style-plastic-green.svg?style=plastic)](http://192.168.1.10:8085/job/sampleJenkins/)
+[![Build Status](http://192.168.1.10:8085/job/sampleJenkins/badge/icon?style=plastic)](http://192.168.1.10:8085/job/sampleJenkins/)
 
 [![Build Status](https://img.shields.io/travis/joyent/node/v0.6.svg)](http://192.168.1.10:8085/job/sampleJenkins/)
 
